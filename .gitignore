@@ -14,7 +14,7 @@ node_modules
 /.env/*
 /lib/*
 /views/*
-/modules/*
+/modules/devtools
 /config/sslcerts/*
 .DS_Store
 

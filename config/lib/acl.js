@@ -14,6 +14,10 @@ const user = [
    */
   'vendor:users:user',
   'vendor:users:auth',
+  /**
+   * Todos
+   */
+  'modules:todos:user',
 ];
 
 /**
@@ -28,6 +32,10 @@ const admin = [
    */
   'vendor:users:admin',
   'vendor:users:roles',
+  /**
+   * Todos
+   */
+  'modules:todos:admin',
 ];
 
 /**
